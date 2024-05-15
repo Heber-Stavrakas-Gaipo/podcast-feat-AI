@@ -12,13 +12,17 @@
 
 ---
 
-<div aLign="center" style="border: 3px solid white; background: linear-gradient(to bottom, #15161b, #141f25);"><h1 aLign="center">
-Missão Codex</h1><h2>Decifrando os Segredos das Linguagens e suas Aplicações</h2></div>
+<!-- styles not supported <div aLign="center" style="border: 3px solid white; background: linear-gradient(to bottom, #15161b, #141f25);"><h1 aLign="center">
+Missão Codex</h1><h2>Decifrando os Segredos das Linguagens e suas Aplicações</h2></div> -->
+
+![Missão Codex Banner](./assets/Capa/Banner.png)
 
 <h2 id="first-episode">🎤 Episódio 01 - Python</h2>
 
 <div aLign="center" style="margin: .8rem 0;">
-  <audio src="./assets/Audio/EP01-Python.mp3" controls title="EP01-Python"></audio>
+  <!-- <audio src="./assets/Audio/EP01-Python.mp3" controls title="EP01-Python"></audio> -->
+  <!-- tag audio not supported -->
+  <a href="./assets/Audio/EP01-Python.mp3">🎧 Clique para acessar o primeiro episódio</a>
 </div>
 
 <h2 id="techs">Tecnologias 💻</h2>
