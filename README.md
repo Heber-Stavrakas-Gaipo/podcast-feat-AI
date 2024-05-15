@@ -36,6 +36,8 @@ Missão Codex</h1><h2>Decifrando os Segredos das Linguagens e suas Aplicações<
 <p>O objetivo desse projeto é, utilizando inteligência artificial, produzir um podcast que tenha fator visual, seja estruturado com roteiro e tenha um assunto pré-definido.</p>
 <p>A utilidade das inteligências artificiais está em agregar valor no resultado final, produzindo um conteúdo enriquecido com conhecimentos disponíveis em toda a internet, que seja estruturado de maneira profissional, sendo o conhecimento humano válido para avaliar o conteúdo gerado e incrementar informações extra, além da possibilidade de se ter uma imagem rica em detalhes e de qualidade.</p>
 <p>O projeto exige da parte humana conhecimento prévio no assunto tratado e, ao menos, noções em Engenharia de Prompt, úteis no comando de roteiro, produção de imagens e geração de áudio através de texto. É um diferencial saber utilizar ferramentas de edição de áudio, imagem e vídeo.</p>
+<p>Minha proposta é um podcast que faz alusão à exploração e missões espaciais tendo como tema principal as linguagens de programação, as principais aplicações de cada uma delas e o mercado de cada uma. O objetivo é mostrar ao público o conjunto de linguagens disponíveis e o que fazer com elas.
+O público-alvo são pessoas interessadas em aprender mais sobre o mundo da programação, a variedade de linguagens e sua utilidade.</p>
 
 <h2 id="prompts">Prompts 📜</h2>
 
