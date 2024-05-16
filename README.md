@@ -22,7 +22,7 @@ Missão Codex</h1><h2>Decifrando os Segredos das Linguagens e suas Aplicações<
 <div aLign="center" style="margin: .8rem 0;">
   <!-- <audio src="./assets/Audio/EP01-Python.mp3" controls title="EP01-Python"></audio> -->
   <!-- tag audio not supported -->
-  <a href="./assets/Audio/EP01-Python.mp3">🎧 Clique para acessar o primeiro episódio</a>
+  <a href="https://drive.google.com/file/d/1GZwGSJOxvi0abvAS9zLV5HGTUMlFb_Ep/view?usp=drive_link">🎧 Clique para acessar o primeiro episódio</a>
 </div>
 
 <h2 id="techs">Tecnologias 💻</h2>
