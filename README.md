@@ -21,9 +21,15 @@ Missão Codex</h1><h2>Decifrando os Segredos das Linguagens e suas Aplicações<
 
 <h2 id="intro">Apresentação do projeto</h2>
 
-<video width="100%" controls>
+<!-- <video width="100%" controls>
   <source src="./assets/Video/intro_video.mp4" type="video/mp4">
-</video>
+</video> tag not supported -->
+
+<div aLign="center" style="margin: .8rem 0;">
+
+![intro](https://youtu.be/CuCzEU4Ul1Y)
+
+</div>
 
 <h2 id="goal">Objetivo 📌</h2>
 <p>O objetivo desse projeto é, utilizando inteligência artificial, produzir um podcast que tenha fator visual, seja estruturado com roteiro e tenha um assunto pré-definido.</p>
